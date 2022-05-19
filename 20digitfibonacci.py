@@ -8,4 +8,3 @@ elif num<1:
     print("Enter a positive number lol","\n","Your number: ",num)
 if num not in fiblist:
     print("Your number is not part of the Fibanocci sequence","\n","Your number: ",num)
-
