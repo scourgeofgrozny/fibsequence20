@@ -1,2 +1,2 @@
 # fibanoccisequence_20digit
-Tells you if input number is part of the Fibonacci sequence between 1 and 10^20. Will eventually update with new features; been thinking about how cool it would be if I could implement Fibonacci sequence calculated to infinity in order to accept ANY number as input.
+Tells you if number input is a part of the Fibonacci sequence between 1 and 10<sup>20</sup>. I'll try to create another Fibonacci sequence project in the future where sequence.py can contain infinite Fibonacci iterations. 
